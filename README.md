@@ -15,4 +15,7 @@
 <br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/valid_parentheses.py
 
 5. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove-duplicates-from-sorted-array.py
+<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/Remove_duplicates_from_sorted_array.py
+
+6. Remove Element: https://leetcode.com/problems/remove-element/
+<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove_element.py
