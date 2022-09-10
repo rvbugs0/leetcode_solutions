@@ -9,4 +9,7 @@
 <br/> Solution:  https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_common_prefix.js
 
 3. Merge two sorted lists: https://leetcode.com/problems/merge-two-sorted-lists/
-<br/> Solution:  
+<br/> Solution:  https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/merge_two_sorted_lists.js
+
+4. Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
+<br/> 
