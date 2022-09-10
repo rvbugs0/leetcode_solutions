@@ -12,4 +12,7 @@
 <br/> Solution:  https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/merge_two_sorted_lists.js
 
 4. Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
-<br/> 
+<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/valid_parentheses.py
+
+5. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove-duplicates-from-sorted-array.py
