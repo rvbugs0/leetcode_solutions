@@ -19,3 +19,6 @@
 
 6. Remove Element: https://leetcode.com/problems/remove-element/
 <br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove_element.py
+
+7. Palindrome number: https://leetcode.com/problems/palindrome-number/
+<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/palindrome_number.cpp
