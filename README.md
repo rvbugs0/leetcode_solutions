@@ -4,7 +4,10 @@
 Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA8qgCc/edit?usp=sharing
 
 
+
+
 <h2>Pattern: Sliding Window</h2>
+
 1. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
