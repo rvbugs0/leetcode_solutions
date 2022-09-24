@@ -22,3 +22,8 @@
 
 7. Palindrome number: https://leetcode.com/problems/palindrome-number/
 <br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/palindrome_number.cpp
+
+8. Maximum sub-array: https://leetcode.com/problems/maximum-subarray/
+<br/> Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/maximum_subarray.py
+<br/> Video reference: https://www.youtube.com/watch?v=ohHWQf1HDfU
+
