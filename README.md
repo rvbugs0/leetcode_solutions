@@ -15,7 +15,7 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/min_size_subarray_sum.py
 
 3. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/
-<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/min_size_subarray_sum.py
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_avg_sum.js
 
 
 
