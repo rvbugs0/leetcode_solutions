@@ -17,6 +17,9 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 3. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_avg_sum.js
 
+4. Longest Substring with At Least K Repeating Characters: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_substring_k_chars.py
+
 
 
 <hr>
