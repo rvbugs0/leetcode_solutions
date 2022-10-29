@@ -8,17 +8,22 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 
 <h2>Pattern: Sliding Window</h2>
 
-1. Two sum: https://leetcode.com/problems/two-sum/
-<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
+1. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_avg_sum.js
 
 2. Minimum size subarray sum: https://leetcode.com/problems/minimum-size-subarray-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/min_size_subarray_sum.py
 
-3. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/
-<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_avg_sum.js
-
-4. Longest Substring with At Least K Repeating Characters: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+3. Longest Substring with At Least K Repeating Characters: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_substring_k_chars.py
+
+4. Longest Substring with At Most K Distinct Characters: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_substring_atmost_k_chars.py
+
+5. Two sum: https://leetcode.com/problems/two-sum/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
+
+
 
 
 
