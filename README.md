@@ -20,7 +20,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 4. Longest Substring with At Most K Distinct Characters: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_substring_atmost_k_chars.py
 
-5. Two sum: https://leetcode.com/problems/two-sum/
+5. Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_sub_without_rep_chars.py
+
+6. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
