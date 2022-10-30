@@ -26,7 +26,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 6. Longest Repeating Character Replacement: https://leetcode.com/problems/longest-repeating-character-replacement/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_repeating_character_replacement.py
 
-7. Two sum: https://leetcode.com/problems/two-sum/
+7. Max Consecutive Ones III: https://leetcode.com/problems/max-consecutive-ones-iii/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_consecutive_ones.py
+
+8. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
