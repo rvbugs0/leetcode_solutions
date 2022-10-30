@@ -23,7 +23,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 5. Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_sub_without_rep_chars.py
 
-6. Two sum: https://leetcode.com/problems/two-sum/
+6. Longest Repeating Character Replacement: https://leetcode.com/problems/longest-repeating-character-replacement/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_repeating_character_replacement.py
+
+7. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
