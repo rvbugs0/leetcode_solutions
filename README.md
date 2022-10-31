@@ -32,7 +32,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 8. Permutation in String: https://leetcode.com/problems/permutation-in-string/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/permutation_in_string.py
 
-9. Two sum: https://leetcode.com/problems/two-sum/
+9. Find All Anagrams in a String: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/find_all_anagams_in_a_string.py
+
+10. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
