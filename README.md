@@ -29,7 +29,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 7. Max Consecutive Ones III: https://leetcode.com/problems/max-consecutive-ones-iii/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_consecutive_ones.py
 
-8. Two sum: https://leetcode.com/problems/two-sum/
+8. Permutation in String: https://leetcode.com/problems/permutation-in-string/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/permutation_in_string.py
+
+9. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
