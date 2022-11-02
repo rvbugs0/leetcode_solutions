@@ -45,6 +45,8 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 <hr>
 <br>
 <h2>Others</h2>
+1. Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
+<br/> Solution:  https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/climbing_stairs.py
 
 2. Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/
 <br/> Solution:  https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/longest_common_prefix.js
