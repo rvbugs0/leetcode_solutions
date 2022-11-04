@@ -7,7 +7,6 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 
 
 <h2>Pattern: Sliding Window</h2>
-
 1. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_avg_sum.js
 
@@ -35,7 +34,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 9. Find All Anagrams in a String: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/find_all_anagams_in_a_string.py
 
-10. Two sum: https://leetcode.com/problems/two-sum/
+10. Minimum Window Substring: https://leetcode.com/problems/minimum-window-substring/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/minimum_window_substring.py
+
+11. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
@@ -45,6 +47,7 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 <hr>
 <br>
 <h2>Others</h2>
+
 1. Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
 <br/> Solution:  https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/climbing_stairs.py
 
