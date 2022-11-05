@@ -7,7 +7,6 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 
 
 <h2>Pattern: Sliding Window</h2>
-<hr>
 1. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/max_avg_sum.js
 
@@ -43,11 +42,11 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 
 
 <h2>Pattern: Two pointer</h2>
-<hr>
 1. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
-
+2. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove_duplicates.py
 
 
 
