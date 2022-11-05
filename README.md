@@ -37,7 +37,10 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 10. Minimum Window Substring: https://leetcode.com/problems/minimum-window-substring/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/minimum_window_substring.py
 
-11. Two sum: https://leetcode.com/problems/two-sum/
+11. Substring with Concatenation of All Words: https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+<br/>Solution: Pending
+
+12. Two sum: https://leetcode.com/problems/two-sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
 
 
