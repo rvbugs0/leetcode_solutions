@@ -44,13 +44,13 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 <h2>Pattern: Two pointer</h2>
 
 1. Two sum: https://leetcode.com/problems/two-sum/
-<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp
-<br>
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/two-sum.cpp<br>
+
 2. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove_duplicates.py
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/remove_duplicates.py<br>
 
 3. Squares of a Sorted Array: https://leetcode.com/problems/squares-of-a-sorted-array/
-<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/squares_of_sorted_array.py
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/squares_of_sorted_array.py<br/>
 
 
 <h2>Others</h2>
