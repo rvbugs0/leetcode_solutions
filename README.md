@@ -52,6 +52,8 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 3. Squares of a Sorted Array: https://leetcode.com/problems/squares-of-a-sorted-array/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/squares_of_sorted_array.py<br/>
 
+4. 3 Sum : https://leetcode.com/problems/3sum/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/three_sum.py<br/>
 
 <h2>Others</h2>
 
