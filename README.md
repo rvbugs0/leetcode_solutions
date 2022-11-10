@@ -55,6 +55,9 @@ Docs: https://docs.google.com/document/d/1zRtTqF5eiAkXOIwkjpdp4jXCzdAPXWiVcd1IUA
 4. 3 Sum : https://leetcode.com/problems/3sum/
 <br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/three_sum.py<br/>
 
+5. 3 Sum Closest: https://leetcode.com/problems/3sum-closest/
+<br/>Solution: https://raw.githubusercontent.com/rvbugs0/leetcode_solutions/main/three_sum_closest.py<br/>
+
 <h2>Others</h2>
 
 1. Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
